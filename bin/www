@@ -1,0 +1,18 @@
+#!/usr/bin/env node
+
+/**
+ * Module dependencies.
+ */
+
+// app.js initial
+var app = require('../server');
+
+// mongoose config
+var database = require('../config/database');
+
+/**
+ * Get port from environment and store in Express.
+ */
+
+// call the database connectivity function
+database();

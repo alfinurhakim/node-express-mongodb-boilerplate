@@ -1,0 +1,10 @@
+APP_NAME=Node JS Express CRUD MongoDB
+APP_HOST=localhost
+APP_PORT=3000
+APP_MODE=development
+
+DATABASE_DRIVER=mongodb
+DATABASE_HOST=mongodb://localhost/crud-mongodb
+DATABASE_PORT=
+DATABASE_USER=
+DATABASE_PASSWORD=
